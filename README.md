@@ -1,6 +1,6 @@
 # hello-world
 Storing ideas and resources
-hi ,i am pranav 
+hi ,i am pranav  sachdeva
 
 ## Python Learning Resource
 https://www.codecademy.com/learn/learn-python
